@@ -10,7 +10,7 @@ body {
     margin: 0 auto;
     border: 1px solid black;
     border-radius: 1.2em;
-    max-height: 973px;
+    height: 973px;
 }
 
 ul {
